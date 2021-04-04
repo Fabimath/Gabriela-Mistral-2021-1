@@ -11,7 +11,11 @@ Mi nombre es Fabián Ramírez y seré el profesor encargado de la ayudantía. Cu
 
 ## Álgebra
 * <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 1](https://drive.google.com/open?id=1V4mMMSokznkDkNa5MFwnEnu9ugBkV4Ux&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 2](https://drive.google.com/open?id=1V5bZzPoXWJLByo8MIWaY3ZuiQqN4Mpgs&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 
+
+## Álgebra Lineal
+* <img src="pdf_logo.svg" alt="drawing" width="12"/> [Ayudantía 1](https://drive.google.com/open?id=1V4zrMWK1P3ZOwN5ycVE_yHcm_CR9tm5-&authuser=fabian.ramirez%40sansano.usm.cl&usp=drive_fs)
 
 [Volver al inicio](https://fabimath.github.io/Fabimath/)
 
